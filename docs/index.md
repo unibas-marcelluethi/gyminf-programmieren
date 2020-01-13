@@ -1,3 +1,3 @@
-# Gyminf : Programmieren I
+# GymInf : Programmierung I
 
-Hier finden Sie alle Vorlesungsmaterialien für das Programmieren I Modul von Gyminf.
+Hier finden Sie alle Vorlesungsmaterialien für das Modul Programmierung I von GymInf.
