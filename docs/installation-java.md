@@ -3,8 +3,7 @@
 Um Java Programme kompilieren und ausführen zu können, müssen Sie auf Ihrem Computer das Java Development Kit (JDK) installieren. 
 Es gibt verschiedene Versionen des JDKs, die zum Teil auch von unterschiedlichen Organisationen angeboten und gepflegt werden.
 Grundsätzlich sollten Sie die in diesem Kurs entwickelten Programme mit jedem JDK ab Version 8 kompilieren und ausführen können. 
-Wir empfehlen Ihnen jedoch, die Version 11 vom OpenJDK zu verwenden, welche Sie auf [AdoptOpenJDK](https://adoptopenjdk.net) gratis
-herunterladen können. 
+Wir empfehlen Ihnen jedoch, die Version 11 vom OpenJDK zu verwenden.
 
 ## Anleitung
 
@@ -12,21 +11,15 @@ Im folgenden führen wir Sie durch die wichtigsten Schritte die Sie durchführen
 
 #### Download
 
-Nachdem Sie auf die Seite [AdoptOpenJDK](https://adoptopenjdk.net) gelangt sind, müssen Sie als erstes die Version vom JDK wählen. Wählen Sie hier *OpenJDK 11* und *Hotspot*. 
+Nachdem Sie auf die Seite [AdoptOpenJDK](https://adoptopenjdk.net/?variant=openjdk11&jvmVariant=hotspot){:target="_blank"} gelangt sind, sollte die Version (OpenJDK 11) und der JVM Typ (Hotspot) schon ausgewählt sein, ansonsten sollten Sie diese Auswahl manuell treffen.
 
 ![jdk-version](./images-jdk/choosejdk.png)
 
-Danach müssen Sie angeben, für welche Platform (d.h. welches Betriebssystem) Sie das JDK herunterladen möchten. Wir wählen hier in dieser Anleitung exemplarisch Windows.
+Die blaue Schaltfläche (Latest release / Neueste Veröffentlichung / Dernière Version) lädt den Installer für Ihr aktuelles Betriebssystem herunter.
 
-![jdk-platform](./images-jdk/choosejdk-platform.png)
+Nachdem Sie den Installer heruntergeladen haben, führen Sie diesen aus und folgen Sie den einzelnen Schritten. 
 
-Als nächstes müssen Sie noch wählen, ob sie nur die Runtime (JRE) oder das ganze *Development Kit* (JDK) herunterladen wollen. Für die Entwicklung brauchen wir das *Development Kit*:
-
-![jdk-jdk](./images-jdk/choosejdk-jdk.png)
-
-Nachdem Sie den Installer heruntergeladen haben, führen Sie diesen aus und folgen den einzelnen Schritten. 
-
-Im Schritt *Benutzerdefiniertes Setup* wählen Sie aus, dass die Variable *JAVA_HOME* gesetzt wird:
+**Im Schritt *Benutzerdefiniertes Setup* wählen Sie aus, dass die Variable *JAVA_HOME* gesetzt wird:**
 
 ![jdk-installer](./images-jdk/jdk-installer.png)
 
