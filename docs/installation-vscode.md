@@ -8,8 +8,7 @@ Laden Sie bitte den entsprechenden Installer für Ihr System von der [VSCode Dow
 ![VS Code Download Page](./images-vscode/code-download-page.png)
 
 ## Die Sprache von VS Code ändern
-Visual Studio Code enthält von Haus aus nur unterstützung für Englisch, um den Editor auf Deutsch nutzen zu können befolgen 
-Falls Sie den Editor auf Deutsch verwenden möchten gehen Sie bitte wiefolgt vor:
+Visual Studio Code enthält von Haus aus nur Unterstützung für Englisch, um den Editor auf Deutsch nutzen zu können, befolgen Sie bitte folgende Schritte:
 
 1. Öffnen Sie bitte das "Extension Fenster" durch drücken von Ctrl-Shift-X oder durch drücken des entsprechenden Knopf, links in der Menübar.
 
@@ -23,4 +22,4 @@ Falls Sie den Editor auf Deutsch verwenden möchten gehen Sie bitte wiefolgt vor
 
 ![Sprache Installieren Screenshot](./images-vscode/change-language-notification.png)
 
-5. Dannach werden Sie aufgefordert, den Editor neu zu starten. Dieser sollte nun in Ihrer gewünschten Sprache erscheinen.
+5. Dannach werden Sie aufgefordert, den Editor neu zu starten. Dieser sollte nach dem Neustart in Ihrer gewünschten Sprache erscheinen.
