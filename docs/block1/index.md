@@ -12,5 +12,9 @@ Bitte folgen Sie [dieser Anleitung](installation-java.md) um ein Java Developmen
 
 Bitte installieren Sie Visual Studio Code, gemäss unserer [Anleitung](installation-vscode.md).
 
+### 3. Java: "Hello World" kompilieren und laufen lassen.
+
+
+
 
 
