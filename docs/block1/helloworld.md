@@ -14,7 +14,7 @@ Für diese und die folgenden Programmieraufgaben empfehlen wir jeweils das folge
 5. Speichern Sie nun diese 'untitled' Datei (Menü Datei -> Speichern) mit dem Namen "HelloWorld.java" 
 
 
-## Schreiben Sie nun Ihr erstes Programm:
+## Das erste Programm:
 Schreiben (oder kopieren) Sie die folgendes Programm im VSCode Editor (in die HelloWorld.java Datei) und speichern Sie diese. 
 
 ```
@@ -34,7 +34,7 @@ public class HelloWorld {
 Mit 'dir' (Windows) oder 'ls' (Linux, Macintosh) können Sie auch die Dateien und Unterordner auflisten, in dieser Liste sollte nun die Datei "HelloWorld.java" ersichtlich sein.
 
 
-## Kompilieren Sie Ihr Programm
+## Kompilieren des Programms
 Kompilieren Sie nun Ihr Programm mit dem folgenden Befehl:
 
 ```
@@ -58,5 +58,10 @@ matthias@matthias-tp:~/tmp/Aufgabe1$ java HelloWorld
 Hello World
 matthias@matthias-tp:~/tmp/Aufgabe1$ _
 ```
+
+## Ändern der Ausgabe
+
+Lassen Sie doch Ihr Programm "Hallo _Ihr_Name_" ausgeben. Ändern Sie den Quelltext, kompilieren Sie neu und führen das geänderte Programm anschliessend aus.
+
 
 
