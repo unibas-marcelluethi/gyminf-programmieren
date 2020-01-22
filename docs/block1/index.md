@@ -14,7 +14,7 @@ Bitte installieren Sie Visual Studio Code, gemäss unserer [Anleitung](installat
 
 ### 3. Java: "Hello World" kompilieren und laufen lassen.
 
-
+[Dieses Tutorial](helloworld.md) hilft Ihnen Ihr erstes "Hello World" in Java auszuführen.
 
 
 
