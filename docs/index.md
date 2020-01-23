@@ -1,5 +1,10 @@
 # GymInf : Programmierung I
 
+Marcel Lüthi <br/>
+Matthias Amberg <br/>
+[Departement Mathematik und Informatik](https://dmi.unibas.ch), [Universität Basel](https://unibas.ch)
+
+
 ### Programm (provisorisch)
 
 | Datum             | Thema | 
