@@ -33,7 +33,7 @@ RUN adduser --disabled-password \
     --uid $NB_UID \
     $NB_USER
 
-# COPY . $HOME
+COPY . $HOME
 RUN chown -R $NB_UID $HOME
 RUN echo "$NB_USER ALL=(ALL) NOPASSWD: ALL" >> /etc/sudoers
 
