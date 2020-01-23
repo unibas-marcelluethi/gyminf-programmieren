@@ -1,10 +1,20 @@
 # GymInf : Programmierung I
 
-Hier finden Sie alle Vorlesungsmaterialien für das Modul Programmierung I von GymInf.
+### Programm (provisorisch)
 
-* [Block 1](block1/index.md) (25.01.2020)
+| Datum             | Thema | 
+|-------------------|--------|
+| 25. Januar       | [Einfache Programme](block1/index.md) |
+| 08. Februar       | Strukturierte Programmierung |
+| 22. Februar      | Zusammengesetzte Datentypen |
+| 07. März         | (Dynamische) Datenstrukturen / Fehlerbehandlung |
+| 21. März         | Vererbung / Grafische Benutzeroberflächen |
+| 04. April        | Input / Output |
 
+Die Vorlesungsmaterialien für die jeweilige Woche finden Sie wenn Sie auf den entsprechenden Link im 
+Programm klicken. 
 
 ### Jupyter Notebooks
 
-Alle Notebooks zur Vorlesung im [Überblick](https://nbviewer.jupyter.org/github/unibas-marcelluethi/gyminf-programmieren/tree/master/notebooks/).
+* Alle Notebooks im [Überblick](https://nbviewer.jupyter.org/github/unibas-marcelluethi/gyminf-programmieren/tree/master/notebooks/).
+* [Installationsanleitung](jupyter-installation) für lokale Installation.
