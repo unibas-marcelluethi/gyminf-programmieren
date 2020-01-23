@@ -1,1 +1,1 @@
-* * * * * echo "pulling" && cd /home/jovyan/programmieren-notebooks ; git commit -a -m "saving local modifications" ; git fetch origin ; git merge -s recursive -X ours origin/master -m "merging changes with strategy ours"
+* * * * * echo "pulling" && cd /home/jovyan/gyminf-programmieren ; git commit -a -m "saving local modifications" ; git fetch origin ; git merge -s recursive -X ours origin/master -m "merging changes with strategy ours"
