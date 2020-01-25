@@ -1,7 +1,7 @@
 {% include head.html %}
 # Übungen 1
 
-Bitte verwenden Sie die Vorlagen im [Zipfile zu den Übungen](uebung1.zip).
+Bitte verwenden Sie die Vorlagen im [Zipfile zu den Übungen](https://github.com/unibas-marcelluethi/gyminf-programmieren/raw/master/docs/block1/uebung1.zip).
 
 ## Aufgabe 1 - Berechnung des BMI
 
