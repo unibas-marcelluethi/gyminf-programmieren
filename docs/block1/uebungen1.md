@@ -56,3 +56,6 @@ Um das Programm aufzurufen, geben Sie als Kommandozeilenargument den Dateinamen 
 Überprüfen Sie Ihre Ausgabe. Sie sollte wie folgt aussehen:
 
 ![Turtle Squares](./images-uebung/turtle-squares.png)
+
+!alert! Die relevanten "Turtle" Funktionen finden Sie in der [Jupyter-Einführung](https://nbviewer.jupyter.org/github/unibas-marcelluethi/gyminf-programmieren/blob/master/notebooks/JupyterEinfuehrung.ipynb)
+
