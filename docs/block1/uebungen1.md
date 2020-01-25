@@ -26,11 +26,11 @@ Sie haben einen BMI zwischen 20 und 25.
 
 Dabei soll die zweite Zeile jeweils angepasst werden wenn der BMI unter 20 oder über 25 ist. Für unter 20 soll "Sie haben einen BMI unter 20." ausgegeben werden und bei einem BMI über 25 soll "Ihr BMI ist über 25." ausgegeben werden.
 
-:warning: Hinweis: Um Parameter welche Java übergeben werden Variablen vom Typ Integer zuzuweisen können Sie folgenden Code benützen:
+:warning: Hinweis: Um Parameter welche Java übergeben werden Variablen vom Typ double zuzuweisen können Sie folgenden Code benützen:
 
 ```java
-int a = Integer.parseInt(args[0]);
-int b = Integer.parseInt(args[1]);
+double a = Double.parseDouble(args[0]);
+double b = Double.parseDouble(args[1]);
 ```
 
 ## Aufgabe 2 - Turtlegrafik: Quadrate
