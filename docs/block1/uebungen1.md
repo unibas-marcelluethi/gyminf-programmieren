@@ -3,8 +3,13 @@
 
 ### Tutoren
 
-[matthias.amberg@unibs.ch](mailto:matthias.amberg@unibas.ch)
+[matthias.amberg@unibas.ch](mailto:matthias.amberg@unibas.ch)
 
+### Foren-Austausch
+
+Wir können uns für die Übungen auch mittels des offziellen [GymInf Moodle Forum](https://moodle.unifr.ch/enrol/index.php?id=224545) austauschen. 
+
+### Übungs-Hilfsdateien
 
 Bitte verwenden Sie die Vorlagen im [Zipfile zu den Übungen](https://github.com/unibas-marcelluethi/gyminf-programmieren/raw/master/docs/block1/uebung1.zip).
 
