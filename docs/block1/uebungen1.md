@@ -1,6 +1,11 @@
 {% include head.html %}
 # Übungen 1
 
+### Tutoren
+
+[matthias.amberg@unibs.ch](mailto:matthias.amberg@unibas.ch)
+
+
 Bitte verwenden Sie die Vorlagen im [Zipfile zu den Übungen](https://github.com/unibas-marcelluethi/gyminf-programmieren/raw/master/docs/block1/uebung1.zip).
 
 
