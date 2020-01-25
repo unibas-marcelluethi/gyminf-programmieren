@@ -14,7 +14,7 @@
 
 ### Übungen
 
-#### Übung 1: Aufsetzen der Programmierumgebung
+#### Übungsblock 1: Aufsetzen der Programmierumgebung
 
 1. Installation der Java-Entwicklungsumgebung
 
@@ -29,4 +29,6 @@
 [Dieses Tutorial](helloworld.md) hilft Ihnen Ihr erstes "Hello World" in Java auszuführen.
 
 
+#### Übungsblock 2: Erste Programmierübungen
 
+Bitte lösen Sie das [Übungsblatt 1](uebungen1.md).
