@@ -37,7 +37,7 @@ Sie haben einen BMI zwischen 20 und 25.
 
 Dabei soll die zweite Zeile jeweils angepasst werden wenn der BMI unter 20 oder über 25 ist. Für unter 20 soll "Sie haben einen BMI unter 20." ausgegeben werden und bei einem BMI über 25 soll "Ihr BMI ist über 25." ausgegeben werden.
 
-:warning: Hinweis: Um Parameter welche Java übergeben werden Variablen vom Typ double zuzuweisen können Sie folgenden Code benützen:
+> :warning: Hinweis: Um Parameter welche Java übergeben werden Variablen vom Typ double zuzuweisen können Sie folgenden Code benützen:
 
 ```java
 double a = Double.parseDouble(args[0]);
@@ -68,7 +68,7 @@ Um das Programm aufzurufen, geben Sie als Kommandozeilenargument den Dateinamen 
 
 ![Turtle Squares](./images-uebung/turtle-squares.png)
 
-:warning: Die relevanten "Turtle" Funktionen finden Sie in der [Jupyter-Einführung](https://nbviewer.jupyter.org/github/unibas-marcelluethi/gyminf-programmieren/blob/master/notebooks/JupyterEinfuehrung.ipynb)
+> :warning: Die relevanten "Turtle" Funktionen finden Sie in der [Jupyter-Einführung](https://nbviewer.jupyter.org/github/unibas-marcelluethi/gyminf-programmieren/blob/master/notebooks/JupyterEinfuehrung.ipynb)
 
 
 ## Automatisiertes Testen der Übungen (optional)

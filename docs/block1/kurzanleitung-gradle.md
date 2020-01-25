@@ -12,6 +12,8 @@ Um Ihre Programme zu testen, starten Sie eine Konsole und wechseln in das Verzei
 ./gradlew test (unter MacOS und Linux)
 ```
 
+> :warning: Unter **OSX** und **Linux** muss das _gradlew_ Programm ausführbar sein, bitte nutzen Sie dazu diese [Apple Info Seite](https://support.apple.com/de-ch/guide/terminal/apdd100908f-06b3-4e63-8a87-32e71241bab4/mac).
+
 Dies testet jeweils alle Übungsaufgaben eines Übungsblattes und listet anschliessend auf, welche Prüfungen bestanden wurden und welche nicht. Für das erste Übungsblatt könnte die Ausgabe zum Beispiel wie folgt aussehen:
 
 ```
