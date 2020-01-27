@@ -59,8 +59,8 @@ javac -cp .:jturtle-0.5.jar Squares.java (Linux und MacOS)
 
 Entsprechend ist das Kommand zum Aufruf nun
 ```
-> java -cp ".;jturtle-0.5.jar" Squares (Windows)
-> java -cp .:jturtle-0.5.jar Squares (Linux und MacOS)
+java -cp ".;jturtle-0.5.jar" Squares (Windows)
+java -cp .:jturtle-0.5.jar Squares (Linux und MacOS)
 ```
 Um das Programm aufzurufen, geben Sie als Kommandozeilenargument den Dateinamen für das resultierende Bild an (mit Endung .png) (also z.B. _java -cp .;jturtle-0.5.jar Squares squares.png_).
 
