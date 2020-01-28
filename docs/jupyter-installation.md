@@ -73,6 +73,25 @@ Die manuelle Installation besteht aus 2 Schritten.
 1. Als erstes müssen Sie Jupyter-Notebooks installieren. 
 Folgen Sie dafür folgender [Anleitung](https://jupyter.readthedocs.io/en/latest/install.html).
 2. Danach müssen Sie noch den Java Kernel installieren. Die benötigten Schritte sind [hier](https://github.com/SpencerPark/IJava#installing) beschrieben. 
+3. Falls Sie die Notebooks als Präsentationen darstellen können möchten, benötigen Sie zusätzlich die RISE extension. 
+Installieren Sie diese gemäss [dieser Anleitung](https://rise.readthedocs.io/en/maint-5.6/installation.html).
+
 
 Wenn Sie Jupyter-Notebooks starten, sollten Sie beim Erstellen eines neuen Notebooks nun den Java-Kernel auswählen können. 
+
+## Kopieren der Notebooks und Bilder
+
+Nach dem Starten von Jupyter-Notebooks können Sie die Notebooks die wir für die Vorlesung vorbereitet haben in Ihre Jupyter-Umgebung kopieren. 
+Laden Sie dafür die entsprechenden Notebooks von [hier](https://nbviewer.jupyter.org/github/unibas-marcelluethi/gyminf-programmieren/tree/master/notebooks/) herunter und uploaden Sie 
+diese in Ihre Juyter Umgebung indem Sie den Upload Button drücken (Siehe Bild).
+![jupyter-upload](images/jupyter-upload.png)
+
+Einige der Notebooks enthalten Bilder. Sie können diese [hier](https://drive.switch.ch/index.php/s/er6wJVVqT5U6yYf/download) als Zip-File herunterladen. Laden Sie das gesamte Zip File 
+in Ihre Notebook Umgebung. Um das Zip-File zu entpacken öffnen Sie in der Jupyter-Umgebung ein Terminal (siehe Bild unten) und führen dann den Befehl
+```
+unzip -n images.zip
+``` 
+aus. 
+
+![jupyter-terminal](images/jupyter-terminal.png)
 
