@@ -11,6 +11,9 @@
 * Gleitkommazahlen ([Jupyter Notebook](https://nbviewer.jupyter.org/github/unibas-marcelluethi/gyminf-programmieren/blob/master/notebooks/Gleitkommazahlen.ipynb))
 * Verzweigungen ([Jupyter Notebook](https://nbviewer.jupyter.org/github/unibas-marcelluethi/gyminf-programmieren/blob/master/notebooks/Verzweigungen.ipynb))
 
+### [Forum](https://moodle.unifr.ch/mod/forum/view.php?id=673384)
+
+Unser Forum um sich über die Vorlesung und die Übungen auszutauschen ist im [Moodle von UniFR](https://moodle.unifr.ch/mod/forum/view.php?id=673384).
 
 ### Übungen
 

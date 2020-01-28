@@ -7,7 +7,8 @@
 
 ### Foren-Austausch
 
-Wir können uns für die Übungen auch mittels des offziellen [GymInf Moodle Forum](https://moodle.unifr.ch/enrol/index.php?id=224545) austauschen. 
+Wir können uns für die Übungen auch mittels des offziellen [GymInf Moodle Forum](https://moodle.unifr.ch/mod/forum/view.php?id=673384) 
+austauschen. 
 
 ### Übungs-Hilfsdateien
 
