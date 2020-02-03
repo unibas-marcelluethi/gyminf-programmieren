@@ -10,7 +10,7 @@ Matthias Amberg <br/>
 | Datum             | Thema | 
 |-------------------|--------|
 | 25. Januar       | [Einfache Programme](block1/index.md) |
-| 08. Februar       | Strukturierte Programmierung |
+| 08. Februar       | [Strukturierte Programmierung](block2/index.md) |
 | 22. Februar      | Zusammengesetzte Datentypen |
 | 07. März         | (Dynamische) Datenstrukturen / Fehlerbehandlung |
 | 21. März         | Vererbung / Grafische Benutzeroberflächen |
