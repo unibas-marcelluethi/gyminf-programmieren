@@ -76,7 +76,7 @@ In unserem Fall ist $f(x) = x^3 - a $.
 
 ## Aufgabe 3 - Turtlegrafik: Muster reproduzieren
 
-Versuchen Sie folgende zwei Muster mit Turtlegrak zu reproduzieren: Es ist dabei nicht wichtig, dass Sie genau dieselben Linienabstände oder Winkel wählen. Wichtig ist der allgemeine Aufbau des Musters.
+Versuchen Sie folgende zwei Muster mit Turtlegrafik zu reproduzieren: Es ist dabei nicht wichtig, dass Sie genau dieselben Linienabstände oder Winkel wählen. Wichtig ist der allgemeine Aufbau des Musters.
 
 ![Muster 1](images-uebung/turtle-pattern-1.png){:height="50%" width="50%"}![Muster 2](images-uebung/turtle-pattern-2.png){:height="50%" width="50%"}
 
