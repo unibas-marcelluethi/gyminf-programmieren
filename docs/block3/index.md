@@ -1,4 +1,4 @@
-# Block 3: Erste Programme
+# Block 3: Zusammengesetzte Datentypen
 
  22\. Februar 2020
 
