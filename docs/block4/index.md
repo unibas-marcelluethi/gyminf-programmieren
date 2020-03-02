@@ -1,4 +1,4 @@
-# Block 3: Zusammengesetzte Datentypen
+# Block 4: (Dynamische) Datenstrukturen / Fehlerbehandlung
 
  7\. März 2020
 
@@ -7,5 +7,5 @@
 
 
 ### Übungen
-[//]: # [Hier](uebungen4.md) gehts zum Übungsblatt 4.
+[Hier](uebungen4.md) gehts zum Übungsblatt 4.
 
