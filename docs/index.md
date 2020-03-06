@@ -12,7 +12,7 @@ Matthias Amberg <br/>
 | 25. Januar       | [Einfache Programme](block1/index.md) |
 | 08. Februar       | [Strukturierte Programmierung](block2/index.md) |
 | 22. Februar      | [Zusammengesetzte Datentypen](block3/index.md) |
-| 07. März         | [(Dynamische) Datenstrukturen / Fehlerbehandlung](block4/index.md) |
+| 07. März         | [Klassen und Objektorientierung](block4/index.md) |
 | 21. März         | Vererbung / Grafische Benutzeroberflächen |
 | 04. April        | Input / Output |
 
