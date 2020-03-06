@@ -24,18 +24,18 @@ Bitte verwenden Sie die Vorlagen im [Zipfile zu den Übungen](https://github.com
 ## Hinweis zum Aufbau dieses Übungsblattes
  
 In dieser Aufgabe entwickeln wir unser eigenes Programm um Histogrammplots zu erstellen
-(Beispiele solcher Plots nden Sie am Ende dieses Übungsblatts). Dabei lernen Sie, wie Sie mit
+(Beispiele solcher Plots finden Sie am Ende dieses Übungsblatts). Dabei lernen Sie, wie Sie mit
 Klassen und Objekten arbeiten und wie Sie komplexe Funktionalität aus einfachen Teilen
 zusammensetzen können. In den ersten Teilaufgaben entwickeln Sie die einzelnen Teile. In der
 letzten Aufgabe werden Sie diese dann zusammensetzen.
 
 > :warning: In dieser Aufgabe können nicht alle Aufgaben durch automatisierte Tests überpüft
-werden. Zum Testen der Aufgaben, die Graken produzieren, schauen Sie ob die Graken den
+werden. Zum Testen der Aufgaben, die Grafiken produzieren, schauen Sie ob die Grafiken den
 Vorgaben entsprechen.
 
 ## Aufgabe 1 - Punkt
 
-Im Verzeichnis _src/main/java/_ nden Sie die Klasse Point, welche einen Punkt im
+Im Verzeichnis _src/main/java/_ finden Sie die Klasse Point, welche einen Punkt im
 Raum durch die Raumkoordinaten (x, y) repräsentiert. Implementiere Sie die fehlenden
 Teile dieser Klasse.
 
@@ -43,9 +43,9 @@ Teile dieser Klasse.
 Mit _gradlew test --tests PointTests_ können Sie nur die Tests für diese Klasse
 ausführen.
 
-## Aufgabe 2 - Grasche Elemente
+## Aufgabe 2 - Grafische Elemente
 
-Im Verzeichnis _src/main/java_ nden Sie die Klassen Rectangle und PlotAxes.
+Im Verzeichnis _src/main/java_ finden Sie die Klassen Rectangle und PlotAxes.
 Diese sollen es erlauben, durch das Angeben eines Referenzpunktes sowie der Länge und
 Höhe jeweils ein Rechteck respektive die Achsen eines Koordinatensystems zu zeichnen
 (siehe Bild unten).
@@ -66,9 +66,9 @@ Rechteck
 
 ## Aufgabe 3 - Histogram
 
-Im Verzeichnis _src/main/java/_ nden Sie die Klasse Histogram. Der Zweck dieser Klasse ist es, ein Array von Werten entgegenzunehmen und zu zählen, wie viele der
+Im Verzeichnis _src/main/java/_ finden Sie die Klasse Histogram. Der Zweck dieser Klasse ist es, ein Array von Werten entgegenzunehmen und zu zählen, wie viele der
 Werte in Klassen (genannt Bins) fallen. Die Klassen werden durch Intervalle fester Länge
-deniert.
+definiert.
 
 Implementieren Sie die fehlenden Methoden. Beginnen Sie dabei mit den Methoden _getMinValue_
 und _getMaxValue_, da Sie diese in den anderen Methoden brauchen werden. Die Kommentare im Code beschreiben genauer was die jeweiligen Methoden machen.
@@ -92,13 +92,32 @@ Komplexter Testfall
 
 ![](./images-uebung/histogram-complex.png)
 
-## FREIWILLIG: Aufgabe 4a - Farbige Grafiken
+
+## Freiwillig: Aufgabe 4a - Farbige Grafiken
 
 Diese Aufgabe ist freiwillig. Können Sie das Programm so anpassen, dass die Balken der
 Histogramme farbig gezeichnet werden? Nutzen Sie dazu die Methode _fill_ von Turtle.
 
+## Aufgabe 5 - Komplexe Zahlen
 
-## Aufgabe 5 - Mandelbrotmenge
+Eine komplexe Zahl ist eine Zahl $a + bi$ mit folgenden Rechenregeln:
+
+Addition: $(a + bi) + (c + di) = (a + c) + (b + d)i$
+
+Multiplikation: $(a + bi)(c + di) = (ac − bd) + (ad + bc)i$
+
+Betrag: $&#x7c;(a + bi)&#x7c; = \sqrt{a^2 + b^2}$
+
+Im Verzeichnis _src/main/java_ finden Sie die Klasse _Complex_. Implementieren Sie die
+fehlenden Methoden.
+
+Beachten Sie, dass Sie die Operationen Addition und Multiplikation jeweils in zwei Varianten implementieren müssen. In der einen Variante soll der berechnete Wert als neues
+Objekt zurückgegeben werden. In der zweiten Variante wird das aktuelle Objekt verändert.
+Testen Sie Ihre Klasse mit den mitgelieferten Tests.
+
+# Freiwilliger Teil:
+
+## Aufgabe 6 - Mandelbrotmenge
 
 In dieser Aufgabe schreiben Sie ein Programm, dass die
 Mandelbrotmenge darstellt. Die Mandelbrotmenge ist definiert, als die Teilmenge
@@ -108,7 +127,7 @@ es eine Konstante $k$ gibt, so dass alle Elemente der Folge $z_n(c)$ kleiner
 $k$ sind.
 
 $
-  \{ c \in \mathbb{C} \mid \exists k \forall n: z_n < k \text{ mit } z_0=0, z_{n+1}=z_n^2+c\}
+  \\{ c \in \mathbb{C} \mid \exists k \in \mathbb{R},\; \forall n \in \mathbb{N}: |z_n| < k \text{ mit } z_0=0, z_{n+1}=z_n^2+c\\}
 $
 
 Man kann diese Menge darstellen, indem man die zu ihr gehörenden Punkte der
@@ -124,7 +143,7 @@ Sie die Methode _computeMandelbrot_, welche für eine gegebene Zahl die Mandelbr
 Folge berechnet und ein Resultatobjekt zurückgibt, welches die Resultate der Berechnung
 enthält. Testen Sie Ihr Programm mit den mitgelieferten Tests.
 
-## Aufgabe 6 - Visualisierung der Mandelbrotmenge
+## Aufgabe 7 - Visualisierung der Mandelbrotmenge
 
 In dieser Aufgabe visualisieren Sie die Mandelbrotmenge. Dafür implementieren Sie die
 Methode _createMandelbrotVisualization_. Dafür laufen Sie über die Pixel eines
@@ -137,7 +156,7 @@ Parametern ausführen, sollten Sie etwa folgendes Bild erhalten
 
 ![](images-uebung/mandelbrot.png)
 
-## Aufgabe 5 - Color Klasse
+## Aufgabe 8 - Color Klasse
 
 Implementieren Sie die Methode _ColorPalette.colorToGreyscale_. Diese soll eine Farbe, wie die von _ColorPalette.getColor_ zurückgegeben wird, in Graustufen
 umwandeln. Dies schaffen Sie, indem die R G B Komponente der Farbe jeweils durch das
