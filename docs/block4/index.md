@@ -5,8 +5,8 @@
 ### Vorlesungsmaterialien
 
 * Einführung ([pdf](einfuehrung-woche4.pdf))
-* Arrays ([Jupyter Notebook](https://nbviewer.jupyter.org/github/unibas-marcelluethi/gyminf-programmieren/blob/master/notebooks/Klassen.ipynb))
-* Zeichenketten ([Jupyter Notebook](https://nbviewer.jupyter.org/github/unibas-marcelluethi/gyminf-programmieren/blob/master/notebooks/Objektorientierung.ipynb))
+* Klassen ([Jupyter Notebook](https://nbviewer.jupyter.org/github/unibas-marcelluethi/gyminf-programmieren/blob/master/notebooks/Klassen.ipynb))
+* Objektorientierung ([Jupyter Notebook](https://nbviewer.jupyter.org/github/unibas-marcelluethi/gyminf-programmieren/blob/master/notebooks/Objektorientierung.ipynb))
 
 
 ### Übungen
