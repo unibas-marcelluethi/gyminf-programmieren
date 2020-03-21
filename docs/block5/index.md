@@ -5,7 +5,7 @@
 ### Vorlesungsmaterialien
 
 * Einführung ([pdf](einfuehrung.pdf))
-* Vererbung ([Jupyter Notebook](https://nbviewer.jupyter.org/github/unibas-marcelluethi/gyminf-programmieren/blob/master/notebooks/Vererbung.ipynb))
+* Vererbung ([Jupyter Notebook](https://nbviewer.jupyter.org/github/unibas-marcelluethi/gyminf-programmieren/blob/master/notebooks/Vererbung.ipynb))  [(github)](https://github.com/unibas-marcelluethi/gyminf-programmieren/blob/master/notebooks/Vererbung.ipynb)
 * AWT/Swing ([pdf](awt-swing.pdf))
 
 ### Übungen
