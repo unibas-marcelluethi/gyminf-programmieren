@@ -1,4 +1,4 @@
-# Block 6: Fehlerbehandlung
+# Block 6: Fehlerbehandlung, IO und Threads
 
  03\. April  2020
 
