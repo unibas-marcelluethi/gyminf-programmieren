@@ -6,7 +6,7 @@
 
 * Einführung ([pdf](Einfuehrung.pdf))
 * Exceptions ([Jupyter Notebook](https://nbviewer.jupyter.org/github/unibas-marcelluethi/gyminf-programmieren/blob/master/notebooks/Exceptions.ipynb)) 
-* IO und Threads ([Jupyter Notebook](https://nbviewer.jupyter.org/github/unibas-marcelluethi/gyminf-programmieren/blob/master/notebooks/IOAndThreads.ipynb)) 
+* IO und Threads ([Jupyter Notebook](https://nbviewer.jupyter.org/github/unibas-marcelluethi/gyminf-programmieren/blob/master/notebooks/IOandThreads.ipynb)) 
 
 
 ### Übungen
