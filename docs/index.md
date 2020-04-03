@@ -14,7 +14,7 @@ Matthias Amberg <br/>
 | 22. Februar      | [Zusammengesetzte Datentypen](block3/index.md) |
 | 07. März         | [Klassen und Objektorientierung](block4/index.md) |
 | 21. März         | [Vererbung / Grafische Benutzeroberflächen](block5/index.md) |
-| 04. April        | Input / Output |
+| 04. April        | [Fehlerbehandlung / Input und Output](block6/index.md) |
 
 Die Vorlesungsmaterialien für die jeweilige Woche finden Sie wenn Sie auf den entsprechenden Link im 
 Programm klicken. 
