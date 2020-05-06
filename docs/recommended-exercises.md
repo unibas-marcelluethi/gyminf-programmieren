@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Empfohlene Übungen aus Sprechen Sie Java
+
 Die Übungen, die mit einem * versehen sind, lösen Sie am einfachsten im Jupyter-Notebook. 
 
 ### Kapitel 1: Grundlagen
