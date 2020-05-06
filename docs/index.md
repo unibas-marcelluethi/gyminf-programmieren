@@ -27,3 +27,9 @@ Zum gegenseitigen Austausch und zur Übungsdiskussion können wir das [GymInf Mo
 
 * Alle Notebooks im [Überblick](https://nbviewer.jupyter.org/github/unibas-marcelluethi/gyminf-programmieren/tree/master/notebooks/).
 * [Installationsanleitung](jupyter-installation) für lokale Installation.
+
+### Übungen
+
+Für die Prüfungsvorbereitumg empfehlen wir Ihnen, erst die kleinen Übungen in den Jupyter-Notebooks zu lösen und sich anschliessend die umfangreicheren Programmieraufgaben anzuschauen. Sie finden diese jeweils unter dem Programm der jeweiligen Woche. Wer noch mehr Übungsmaterial möchte, findet viele Aufgaben, mit Musterlösung, im Buch *Sprechen Sie Java*. Die Musterlösungen finden sie [hier](http://ssw.jku.at/JavaBuch/Muster/). 
+
+* [Empfohlene Aufgaben](recommended-exercises) aus Sprechen Sie Java
