@@ -73,7 +73,7 @@ definiert.
 Implementieren Sie die fehlenden Methoden. Beginnen Sie dabei mit den Methoden _getMinValue_
 und _getMaxValue_, da Sie diese in den anderen Methoden brauchen werden. Die Kommentare im Code beschreiben genauer was die jeweiligen Methoden machen.
 
->:point_up: Schreiben Sie eigene kleine Testprogramme in der Main-methode um Ihre Implementation zu testen. Wenn alles funktioniert nutzten Sie auch die mitgelieferten Tests.
+>:point_up: Schreiben Sie eigene kleine Testprogramme in der Main-methode um Ihre Implementation zu testen. Wenn alles funktioniert nutzen Sie auch die mitgelieferten Tests.
 
 
 ## Aufgabe 4 - Plotten des Histogram
